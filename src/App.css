@@ -1,0 +1,24 @@
+.App {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 20px;
+  }
+  
+  .filters {
+    margin-bottom: 20px;
+  }
+  
+  .filters select {
+    margin: 5px;
+    padding: 10px;
+  }
+  
+  .charts {
+    margin: 20px 0;
+  }
+  
+  .d3-chart {
+    margin: 20px 0;
+  }
+  
